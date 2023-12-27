@@ -16,10 +16,7 @@
 }
 .page3bg{
     background-image: url(./images/page3.png);
-    background-size: cover;
-    background-position: 30%;
-    padding-bottom: 500px 0;
-    padding-top: 30px;
+
 }
 .p5header{
     color: #563838;   
