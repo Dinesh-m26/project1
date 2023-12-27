@@ -1,0 +1,51 @@
+*{
+    font-family: 'Nunito', sans-serif;
+}
+.headerright{
+    padding: 2px;
+    margin: 0%;
+    height: 25px;
+}
+.hsearchbox{
+    width: 40%;
+    padding-left: 10%;
+   }
+#navbarNavAltMarkup{
+   padding-left: 20px;
+   flex-direction: row-reverse;
+}
+.page3{
+    background-image: url(/clothing/images/page3.png);
+    background-size: cover;
+    background-position: 30%;
+    padding-bottom: 500px 0;
+    padding-top: 30px;
+}
+.p5header{
+    color: #563838;   
+   
+    
+}
+
+.Catgories{
+    padding-top: 10px;
+}
+.dealrow{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.page5{
+    background-image: url(/clothing/images/page5.png);
+}
+.site-footer
+{
+  background-color:#26272b;
+  padding:45px 0 20px;
+  font-size:15px;
+  line-height:24px;
+  color:#737373;
+}
+.page5right{
+    padding-top: 7%;
+    padding-left: 5%;
+}
