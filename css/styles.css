@@ -15,8 +15,8 @@
    flex-direction: row-reverse;
 }
 .page3bg{
-    background-image: url(../images/page3.png);
-
+    background-image: url(../images/page3.png); background-size: cover;
+    padding-top: 30px;
 }
 .p5header{
     color: #563838;   
