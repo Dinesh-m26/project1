@@ -15,7 +15,7 @@
    flex-direction: row-reverse;
 }
 .page3{
-    background-image: url(/clothing/images/page3.png);
+    background-image: url(../images/page3.png);
     background-size: cover;
     background-position: 30%;
     padding-bottom: 500px 0;
@@ -35,7 +35,7 @@
     padding-bottom: 20px;
 }
 .page5{
-    background-image: url(/clothing/images/page5.png);
+    background-image: url(../images/page5.png);
 }
 .site-footer
 {
