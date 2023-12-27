@@ -15,7 +15,7 @@
    flex-direction: row-reverse;
 }
 .page3bg{
-    background-image: url(./images/page3.png);
+    background-image: url(../images/page3.png);
 
 }
 .p5header{
@@ -32,7 +32,7 @@
     padding-bottom: 20px;
 }
 .page5bg{
-    background-image: url(./images/page5.png);
+    background-image: url(../images/page5.png);
 }
 .site-footer
 {
